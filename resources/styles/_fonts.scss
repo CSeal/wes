@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'GothamPro';
+    src: url($icon-font-path + 'GothamPro-Bold.woff2') format('woff2'),
+        url($icon-font-path + 'GothamPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothamPro';
+    src: url($icon-font-path + 'GothamPro-Medium.woff2') format('woff2'),
+        url($icon-font-path + 'GothamPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothamPro';
+    src: url($icon-font-path + 'GothamPro.woff2') format('woff2'),
+        url($icon-font-path + 'GothamPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
